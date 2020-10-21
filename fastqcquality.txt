@@ -1,0 +1,30 @@
+“the fastqc output of 216 Slender is”
+216_L8_1.
+>>Basic Statistics	pass
+216_L8_2.
+>>Basic Statistics	pass
+“the fastqc output of 222 Stumpy is”
+222_L8_1.
+>>Basic Statistics	pass
+222_L8_2.
+>>Basic Statistics	pass
+“the fastqc output of 218 Slender is”
+218_L8_1.
+>>Basic Statistics	pass
+218_L8_2.
+>>Basic Statistics	pass
+“the fastqc output of 220 Stumpy is”
+220_L8_1.
+>>Basic Statistics	pass
+220_L8_2.
+>>Basic Statistics	pass
+“the fastqc output of 221 Stumpy is”
+221_L8_1.
+>>Basic Statistics	pass
+221_L8_2.
+>>Basic Statistics	pass
+“the fastqc output of 219 Slender is”
+219_L8_1.
+>>Basic Statistics	pass
+219_L8_2.
+>>Basic Statistics	pass
